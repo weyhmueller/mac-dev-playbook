@@ -33,6 +33,7 @@ homebrew_installed_packages:
   - git-flow-avh
   - git-plus
   - git-secrets
+  - git-standup
   - gitmoji
   - github/gh/gh
   - go
@@ -41,6 +42,7 @@ homebrew_installed_packages:
   - has
   - helm
   - httpie
+  - hub
   - iperf
   - jq
   - kubernetes-cli
