@@ -19,6 +19,7 @@ homebrew_installed_packages:
   - autoconf
   - aws-shell
   - awscli
+  - azure-cli
   - bfg
   - certigo
   - cfssl
@@ -27,10 +28,12 @@ homebrew_installed_packages:
   - doctl
   - exif
   - ffmpeg
+  - fzf
   - git
   - git-cal
   - git-extras
   - git-flow-avh
+  - git-lfs
   - git-plus
   - git-secrets
   - git-standup
@@ -43,6 +46,7 @@ homebrew_installed_packages:
   - helm
   - httpie
   - hub
+  - htop
   - iperf
   - jq
   - kubernetes-cli
@@ -68,9 +72,12 @@ homebrew_installed_packages:
   - timewarrior
   - tmux
   - todoist
+  - vault
+  - vim
   - wget
   - wrk
   - xz
+  - yamllint
   - yarn
   - yq
   - zlib
@@ -94,8 +101,10 @@ homebrew_cask_apps:
   - chromedriver
   - cloudapp
   - dash
+  - discord
   - docker
   - firefox
+  - github
   - google-chrome
   - gpg-suite-no-mail
   - graalvm-ce-java8
@@ -110,13 +119,17 @@ homebrew_cask_apps:
   - nordvpn
   - pdf-expert
   - pliim
+  - postman
+  - skype
   - spotify
   - spotify-notifications
   - slack
+  - teamviewer
   - tower
   - transmit
   - tweetbot
   - vagrant
+  - virtualbox
   - visual-studio-code
   - vlc
   - webex-meetings
