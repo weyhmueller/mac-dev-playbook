@@ -132,6 +132,7 @@ homebrew_cask_apps:
   - virtualbox
   - visual-studio-code
   - vlc
+  - vuescan
   - webex-meetings
   - zoomus
 
