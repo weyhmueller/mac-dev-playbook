@@ -80,7 +80,9 @@ homebrew_installed_packages:
   - xz
   - yamllint
   - yarn
+  - ykman
   - yq
+  - yubico-piv-tool
   - zlib
 
 homebrew_taps:
