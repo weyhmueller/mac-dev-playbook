@@ -30,6 +30,7 @@ homebrew_installed_packages:
   - emacs-plus
   - ffmpeg
   - fzf
+  - ghq
   - git
   - git-cal
   - git-extras
